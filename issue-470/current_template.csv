@@ -1,0 +1,5 @@
+﻿"# 428HR employee CSV template — REPLACE the placeholder emails below with your real employees' emails before uploading."
+"# no tenant in session (super_admin preview) — placeholder emails include a per-tenant suffix so they cannot collide with another tenant's upload."
+first_name,last_name,middle_name,email,hire_date,department,position,work_location,phone,address,birth_date,gender,civil_status,employment_status,salary,tin_number,sss_number,philhealth_number,pagibig_number,bank_account_number
+Maria,Santos,Cruz,maria.santos+xb6dd5a@acme.test,2024-01-15,Operations,"Operations Manager","Main Office",+639****4567,"123 Rizal St., Makati",1990-05-21,Female,Single,Regular,45000,123-456-789-000,12-3456789-0,12-345678901-2,1234-5678-9012,001234567890
+Juan,"Dela Cruz",,juan.delacruz+xb6dd5a@acme.test,2024-02-01,Finance,Accountant,"Branch Office",+639****4567,"45 Aurora Blvd., Quezon City",1988-11-03,Male,Married,Probationary,32000,234-567-890-000,23-4567890-1,23-456789012-3,2345-6789-0123,002345678901
